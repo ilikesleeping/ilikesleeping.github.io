@@ -2,3 +2,8 @@ body {
     background: aliceblue;
     font-family: sans-serif;
 }
+
+article {
+    margin: auto;
+    max-width: 600px;
+}
